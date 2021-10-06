@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Maxime Heguy"
 title_separator          : "-"
 name                     : &name "Maxime Heguy"
-description              : &description "Welcome to my personal page"
+description              : &description ""
 url                      : https://maximehgy.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "maximehgy/maximehgy.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Maxime Heguy"
   avatar           : "PhotoProfil.JPG"
-  bio              : "Engineering student at Institut Polytechnique de Paris. AR, VR, Video Games"
+  bio              : "Engineering student at Institut Polytechnique de Paris : AR, VR, Video Games"
   location         : "Paris, France"
   employer         :
   pubmed           : 
