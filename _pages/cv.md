@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Resume"
+permalink: /resume/
 author_profile: true
 redirect_from:
   - /resume
@@ -11,9 +11,14 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Generalist Engineering Studies at Telecom SudParis
+  * Institut Polytechnique de Paris 
+  * Augmented Reality, Virtual Reality, 3D Modeling, Video Games
+  * 2019-2022
+* Mathematics and Physics Preparatory Course
+  * La Martiniere Monplaisir High School 
+  * Two-year intensive program preparing for the national competitive exam for entry to engineering schools
+  * 2017-2019
 
 Work experience
 ======
