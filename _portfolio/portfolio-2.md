@@ -5,3 +5,4 @@ collection: portfolio
 ---
 
 The aim of this project was to make a course more attractive and more interactive in order to help students learn faster and better. With existing pieces of course, my team and I had to create a serious game, which included creating design, deciding game design while following ideas the Business School already had. 
+Co-developed with L.Sommervogel and C.Jayat
