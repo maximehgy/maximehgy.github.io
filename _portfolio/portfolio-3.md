@@ -5,3 +5,4 @@ collection: portfolio
 ---
 
 This Pinball Game was my first computer science project. It uses collisions between objects, dynamic physics, and rendering features. This project was co-developed with L.Sommervogel and C.Jayat. 
+See full video demo at : https://github.com/maximehgy/Pinball/tree/main/demo
