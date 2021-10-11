@@ -1,4 +1,3 @@
-
 ---
 title: "Pinball"
 excerpt: "Online Pinball Game 2D<br/> School Project 2019-2020 <br/> <img src='/images/Pinball.png'>"
