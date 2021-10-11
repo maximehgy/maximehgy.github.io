@@ -4,4 +4,4 @@ excerpt: "Online Pinball Game 2D<br/> School Project 2019-2020 <br/> <img src='/
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+This Pinball Game was my first computer science project. It uses collisions between objects, dynamic physics, and rendering features. This project was co-developed with L.Sommervogel and C.Jayat. 
