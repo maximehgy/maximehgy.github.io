@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "<img src='/images/Resume.png'>"
+title: " Resume <img src='/images/Resume.png'>"
 permalink: /cv/
 author_profile: true
 redirect_from:
