@@ -1,8 +1,7 @@
 ---
-title: "Pinball"
-excerpt: "Online Pinball Game 2D<br/> School Project 2019-2020 <br/> <img src='/images/Pinball.png'>"
+title: "3D Serious Game"
+excerpt: "Business course transformed into a 3D Serious Game <br/> School Project 2020-2021 <br/> <img src='/images/SeriousGame.png'>"
 collection: portfolio
 ---
 
-This Pinball Game was my first computer science project. It uses collisions between objects, dynamic physics, and rendering features. This project was co-developed with L.Sommervogel and C.Jayat. 
-See full video demo at : https://github.com/maximehgy/Pinball/tree/main/demo
+The aim of this project was to make a course more attractive and more interactive in order to help students learn faster and better. With existing pieces of course, my team and I had to create a serious game, which included creating design, deciding game design while following ideas the Business School already had. 
