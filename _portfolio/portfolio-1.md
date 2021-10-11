@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Pinball"
+excerpt: "Online Pinball Game 2D<br/> School Project 2019-2020 <br/> <img src='/images/Pinball.png'>"
 collection: portfolio
 ---
 
