@@ -22,6 +22,13 @@ Education
 
 Work experience
 ======
+
+* VIRTUAL REALITY AND 3D DEVELOPMENT 
+  * Expleo Group, France
+  * Designed, modeled & developed a virtual simulation of an industrial environment in order to prevent and reduce work accidents (3DSMax, Adobe, Unity, HP VR Reverb G2)
+  * 3DSMax, Adobe Substance Painter, Unity, C#, HP VR G2 Reverb
+  * Feb 2022 - Aug 2022
+
 * AUGMENTED REALITY AND 3D DEVELOPMENT (End-of-studies Project)
   * Asobo Studios, France
   * Holographic gallery in which visitors can personalize their environments with the actual physical paintings 
@@ -44,19 +51,21 @@ Skills
 ======
 * COMPUTER SCIENCE
   * C++/C#, Unity
+  * Visual Studio 
+  * SteamVR, MRTK
   * JavaScript, AngularJS
   * Java, Bash, Python
-  * VisualStudio
+  * Git
 
-* MULTIMEDIA
+* 3D & DESIGN
+  * 3DSMax
   * Blender
-  * OpenGL
-  * OpenCV, Qt
-  * Photoshop, SceneViewer
+  * Adobe Photoshop
+  * Adobe Substance Painter
 
 * LANGUAGES
   * French (Mother tongue)
-  * English (C1)
+  * English (C1, TOEIC : 965 out of 990)
   * German (B2)
   * Italian(B1)
   * Spanish(A2)
