@@ -1,5 +1,5 @@
 ---
-title: " Perrier bottle "
-excerpt: "<br/><img src='/images/Perrier.png'> "
+title: " "
+excerpt: "Perrie Bottle <br/><img src='/images/Perrier.png'> "
 collection: modeling
 ---
