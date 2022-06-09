@@ -4,4 +4,16 @@ excerpt: "3D Modeling creations<br/> School Project 2021-2022 <br/> <img src='/i
 collection: portfolio
 ---
 
-Here are a few examples of 3D Modeling projects. Made with Blender
+---
+layout: archive
+title: "3D Modeling"
+permalink: /portfolio/modeling
+author_profile: true
+---
+
+{% include base_path %}
+
+
+{% for post in site.portfolio %}
+  {% include archive-single.html %}
+{% endfor %}
